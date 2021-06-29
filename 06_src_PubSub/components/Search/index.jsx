@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 // 导入消息发布与订阅
+// 要下载这个插件 pubsub-js
 import PubSub from 'pubsub-js'
 import axios from 'axios'
 
